@@ -1,0 +1,36 @@
+{
+  "name": "node-sony-mesh",
+  "version": "0.1.0",
+  "description": "node-sony-mesh は、SONY の IoT ブロック「MESH」をコントロールするための node モジュールです。7 種類すべてのブロックに対応し、ブロックの制御やブロックからのメッセージ受信を行います。",
+  "main": "./lib/mesh.js",
+  "files": [
+    "lib"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SONY",
+    "MESH",
+    "BLE",
+    "Bluetooth Low Energy",
+    "Bluetooth smart",
+    "Bluetooth",
+    "IoT",
+    "Internet of Things"
+  ],
+  "homepage": "https://github.com/futomi",
+  "author": "Futomi Hatano <futomi.hatano@gmail.com> (https://github.com/futomi)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/futomi/node-sony-mesh.git"
+  },
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "@abandonware/noble": ">=1.9.2-15"
+  }
+}
