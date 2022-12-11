@@ -9,6 +9,8 @@ node-sony-mesh は、SONY の IoT ブロック「[MESH](https://meshprj.com/jp/)
 
 <small>*※ このモジュールは SONY 公式または公認の node モジュールではなく、SONY が一般公開している「[MESH 技術ドキュメント](https://developer.meshprj.com/hc/ja)」を参考に開発した非公式・非公認の node モジュールです。*</small>
 
+<small>*※ MESH ブロックのファームウェアを必ず最新版にアップデートしてください。詳細は[公式サイトの「ブロックソフトウェアバージョンについて」](https://developer.meshprj.com/hc/ja/articles/9950635230873)をご覧ください。*</small>
+
 ## 対象のブロック
 
 以下の 7 種類のすべてのブロックをサポートしています。
